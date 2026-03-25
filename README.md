@@ -1,4 +1,4 @@
-# DeepSeek Translator for Obsidian
+# ObsidianTranslationPluginForSEOs
 
 在 Obsidian 中一键调用 DeepSeek API，将选中的英文内容翻译为中文，结果直接写回笔记。
 
