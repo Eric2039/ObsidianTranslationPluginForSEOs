@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-deepseek-translator",
+  "name": "DeepSeek Translator",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Translate selected text to Chinese using DeepSeek API",
+  "author": "User",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
