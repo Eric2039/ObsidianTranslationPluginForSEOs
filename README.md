@@ -1,4 +1,4 @@
-# DeepSeek Translator for Obsidian
+# Obsidian Translation Plugin For SEOs
 
 Translate selected English text to Chinese inside Obsidian using the DeepSeek API. Results are written directly back into your note.
 
